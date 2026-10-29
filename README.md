@@ -1,0 +1,7 @@
+скрин главного экрана ![alt text](image.png)
+скрин выбора характеристики ![alt text](image-1.png)
+скрин поиска ![alt text](image-2.png)
+сбросить ![alt text](image-4.png)
+обновить ![alt text](image-3.png)
+информация ![alt text](image-5.png)
+выпадающий список ![alt text](image-6.png)
